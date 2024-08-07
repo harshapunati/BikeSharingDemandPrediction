@@ -1,52 +1,22 @@
-# Project Name
-> Outline a brief description of your project.
+# BikeDemandPrediction
 
+### General Information
+* **Background:** This project explores bike rental demand patterns using historical data from a bike-sharing service. Understanding these patterns helps in optimizing bike availability and improving customer satisfaction.
+* **Business Problem:** The project addresses the need for accurate demand forecasting in bike-sharing services. By predicting bike rental demand, the service can better manage inventory, adjust pricing, and plan promotions.
+* **Dataset:** The dataset used includes variables such as season, month, weekday, weather conditions, year, working day, and holiday status, alongside bike rental counts.
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+### Technologies Used
+* Pandas 
+* NumPy 
+* Scikit-learn 
+* Matplotlib 
+* Seaborn
 
-<!-- You can include any other section that is pertinent to your problem -->
+### Conclusions
+* **Seasonal Effects:** Both summer and winter positively influence bike demand compared to spring, with winter having a more substantial effect.
+* **Year Impact:** The year 2019 saw a significant increase in bike demand compared to 2018, highlighting growing popularity.
+* **Month Trends:** September has higher bike demand compared to January.
+* **Weather Situation:** Bad weather conditions significantly reduce bike demand.
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+### Contact
+Created by [@harshapunati](https://github.com/harshapunati)
